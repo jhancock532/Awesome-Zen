@@ -7,7 +7,7 @@
 
 ### Dry Vispassana
 
-- [Daniel Ingram, Mastering The Core Teachings Of The Buddha 2](https://www.amazon.co.uk/Mastering-Core-Teachings-Buddha-Unusually/dp/1911597108/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=1RVYKTE94GT8N0TNQVC8) (can be very helpful for other traditions anyway) 
+- [Mastering The Core Teachings Of The Buddha 2, Daniel Ingram](https://www.amazon.co.uk/Mastering-Core-Teachings-Buddha-Unusually/dp/1911597108/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=1RVYKTE94GT8N0TNQVC8) 
 
 ### Reducing Stress / Information Overload
 
@@ -15,9 +15,9 @@
 
 # Websites
 
--[Western Wisdom Tradition](wiserbydesign.com)<br>
+- [Western Wisdom Tradition](wiserbydesign.com)<br>
 (including resolution of personal, cultural, existential false beliefs using dialectic, teacher-student transmission, cosmological practice/framework)
--[meaningness.com](https://meaningness.com/)<br>Metaphysics, Meta-Rationality, Understanding impact of culture on how selves form. 
+- [meaningness.com](https://meaningness.com/)<br>Metaphysics, Meta-Rationality, Understanding impact of culture on how selves form. 
 
 # Online Courses and Tuition
 
