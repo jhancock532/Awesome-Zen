@@ -1,15 +1,27 @@
+# Websites
 
-Western Wisdom Tradition (including resolution of personal, cultural, existential false beliefs using dialectic, teacher-student transmission, cosmological practice/framework) – Alan Chapman [wiserbydesign.com] 
-- other individuals in the lineage:
-Peter Kingsley 
-Pierre Grimes + The Noetic Society
+[Western Wisdom Tradition](wiserbydesign.com)
+(including resolution of personal, cultural, existential false beliefs using dialectic, teacher-student transmission, cosmological practice/framework)
+
+# Books
+
+### Meditation and Mindfulness
+
+- [The Science Of Enlightenment](https://www.amazon.co.uk/Science-Enlightenment-How-Meditation-Works/dp/1591794609)
+- [The Mind Illuminated](https://www.amazon.co.uk/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1781808201/ref=sr_1_1?s=books&ie=UTF8&qid=1532797695&sr=1-1&keywords=the+mind+illuminated)
+
+### Reducing Stress / Information Overload
+
+- [Getting Things Done, David Allen.](https://www.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0349408947/ref=sr_1_1?s=books&ie=UTF8&qid=1532798186&sr=1-1&keywords=getting+things+done+david+allen) 
+
+
 Plato’s dialogues, accounts of Socrates, work of Empedocles/Parmenides/Pre-Socratics + Neoplatonists (only certain translations) – plus other non-grimes authors at [noetic society]
 
 Technical/Science Based/Comparative Mysticism: Shinzen Young [Unified Mindfulness, ULTRA]
-[The Science Of Enlightenment]
+
+
 
 Classical 4 Path Buddhist Approach + Neuroscience (Samatha-Vispassana): Culadasa [Dharma Treasure]
-[The Mind Illuminated]
 
 Modern Monastic Living/Training Leadership Skills: Centre For Mindful Living/Monastic Academy (focused on training resilient young people full time) – teachers are Soryu Forall, Shinzen Young
 
@@ -23,9 +35,18 @@ Heart stuff: Jack Kornfield, Sharon Salzberg, Trudy Goodman, Roshi Joan Halifax 
 Metaphysics, Meta-Rationality, Understanding impact of culture on how selves form: meaningness.com 
 Free/Donation Based 1 to 1 online tuition: Tucker Peck + The E-Sangha, Dhammarato
 
-Paid 1 to 1 online tuition: Kenneth Folk 
 
-1 to 1 online tuition, Vajrayana: Hokai Sobol 
+
+
+# Online Courses and Tuition
+
+### Courses
+ - https://www.buildingasecondbrain.com/
+ 
+### One to One Online Tuition
+ - [Vajrayana: Hokai Sobol](https://www.hokai.info/)
+ - [Kenneth Folk](http://kennethfolkdharma.com/)
+ - [Tucker Peck](https://meditatewithtucker.com/)
 
 Traditional Theravadan Perspectives – Youtube talks: Sayadaw U Pandita Junior, Christopher Titmuss, Bhante Guranatna 
 
@@ -57,9 +78,7 @@ Extra helpful individuals for integrating difficult meditation/psychedelic exper
 Fluid mode perspectives for young generation in general: Emerge Podcast/Daniel Thorson
 Adult Development work: Robert Kegan, David Chapman, Venkatesh Rao (ribbonfarm website), Robert Bly
 
-Reducing stress/information overload: 
--Getting Things Done, David Allen. 
--Tiago Forte: Building A Second Brain 
+
 
 Future commentaries 
 Joe Brewer 
