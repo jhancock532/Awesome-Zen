@@ -1,9 +1,3 @@
-# Websites
-
-[Western Wisdom Tradition](wiserbydesign.com)
-(including resolution of personal, cultural, existential false beliefs using dialectic, teacher-student transmission, cosmological practice/framework)
-[meaningness.com](https://meaningness.com/) Metaphysics, Meta-Rationality, Understanding impact of culture on how selves form. 
-
 # Books
 
 ### Meditation and Mindfulness
@@ -18,6 +12,12 @@
 ### Reducing Stress / Information Overload
 
 - [Getting Things Done, David Allen.](https://www.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0349408947/ref=sr_1_1?s=books&ie=UTF8&qid=1532798186&sr=1-1&keywords=getting+things+done+david+allen) 
+
+# Websites
+
+-[Western Wisdom Tradition](wiserbydesign.com)<br>
+(including resolution of personal, cultural, existential false beliefs using dialectic, teacher-student transmission, cosmological practice/framework)
+-[meaningness.com](https://meaningness.com/)<br>Metaphysics, Meta-Rationality, Understanding impact of culture on how selves form. 
 
 # Online Courses and Tuition
 
